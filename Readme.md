@@ -71,3 +71,6 @@ The example.
     "currentEmployeeAge": "Years:35,Months:7,Days:25"
 	}
 
+## Explore SOAP Service
+
+	/ws/employees.wsdl
