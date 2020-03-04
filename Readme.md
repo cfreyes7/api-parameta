@@ -14,7 +14,7 @@
 **1. Clone the application**
 
 ```bash
-git clone 
+git clone https://github.com/cfreyes7/api-parameta.git
 ```
 
 **2. Create Mysql database**
